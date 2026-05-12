@@ -1,0 +1,7 @@
+# BiGSTF-Net implementation
+
+This is the source code of <BiGSTF-Net: Inter-modal Mutual Guidance and Intra-modal Spatio-temporal Fusion for EEG-fNIRS Cognitive Tasks Classification>
+
+![main-model](pictures/main_model.png "BiGSTF-Net model")
+
+
